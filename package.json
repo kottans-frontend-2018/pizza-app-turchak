@@ -30,7 +30,7 @@
 		"sass-loader": "^6.0.6",
 		"style-loader": "^0.20.1",
 		"webpack": "^3.10.0",
-		"webpack-dev-server": "^2.11.1"
+		"webpack-dev-server": "^3.1.11"
 	},
 	"scripts": {
 		"build": "./node_modules/.bin/webpack",
